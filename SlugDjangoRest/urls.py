@@ -33,9 +33,9 @@ schema_view = get_schema_view(
         description="API documentation for Slug Product",
         terms_of_service="https://www.google.com/policies/terms/",
         contact=openapi.Contact(
-            name="Marselle Naz",
-            email="marselle.naz@yandex.kz",
-            url="https://github.com/marse11e",
+            name="Baimenov Allabergen",
+            email="",
+            url="https://github.com/Allabergen777",
         ),
         license=openapi.License(
             name="BSD License",
